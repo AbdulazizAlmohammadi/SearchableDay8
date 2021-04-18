@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.exe
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.deps.json
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.dll
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\bin\Debug\netcoreapp3.1\SearchableDay8.pdb
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.dll
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.pdb
+C:\Users\3zAl7arbi\source\repos\SearchableDay8\SearchableDay8\obj\Debug\netcoreapp3.1\SearchableDay8.genruntimeconfig.cache
